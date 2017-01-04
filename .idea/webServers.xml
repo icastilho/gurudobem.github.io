@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adbb2822-d825-4351-94fb-1e785b22e840" name="Guru" url="http://198.50.178.201">
+        <fileTransfer host="198.50.178.201" port="21" rootFolder="/public_html/gurudobem">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
